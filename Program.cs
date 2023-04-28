@@ -1,4 +1,26 @@
-﻿Console.WriteLine("Введите трехзначное число:");
-int num = Convert.ToInt32(Console.ReadLine());
-int res = (num / 10) % 10;
-Console.WriteLine("Вторая цифра введенного числа: " + res);
+﻿Console.Clear();
+
+// Задача 10: Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает вторую цифру этого числа. Через строку решать нельзя.
+// Console.WriteLine("Введите трехзначное число:");
+// int num = Convert.ToInt32(Console.ReadLine());
+// int res = (num / 10) % 10;
+// Console.WriteLine("Вторая цифра введенного числа: " + res);
+
+// Задача 15: Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным.
+
+// Console.WriteLine("Введите номер дня нелели: ");
+// int num = Convert.ToInt32(Console.ReadLine());
+
+// if(num <=7 && num>0){
+//     if(num == 6 || num == 7){
+//         Console.WriteLine("Выходной");
+//     }
+//     else{
+//         Console.WriteLine("Рабочий");
+//     }
+// }
+
+// else{
+//     Console.WriteLine("Неделя из 7 дней состоит, и считается она положительными цифрами"); 
+// }
+
